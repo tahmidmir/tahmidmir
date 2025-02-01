@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tahmid+Mir;AI+Engineer;Data+Scientist" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm +Mir+Tahmid;AI+Engineer;Data+Scientist" alt="Animated Header" />
 </div>
 
 # Mir Tahmid Hossain
@@ -18,6 +18,9 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 
 ## 🛠️ Top Skills
 
+- **Tabular AI**
+- **Explainable AI (XAI)**
+- **AI Agent Development**
 - **Predictive Analytics**
 - **Time Series Analysis**
 - **Machine Learning & Deep Learning**
