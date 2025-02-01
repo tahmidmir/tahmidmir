@@ -1,13 +1,13 @@
 <!-- Header Section with Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tahmid+Mir;Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tahmid+Mir;AI+Engineer;Data+Seintist" alt="Animated Header" />
 </div>
 
 # Mir Tahmid Hossain
 
 **Kaggle Grandmaster | 4X Microsoft Certified | Senior Data Scientist**  
 📍 Dhaka, Bangladesh  
-📧 [Email](mailto:your.email@domain.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Portfolio](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
+📧 [Email](mailto:your.email@domain.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Kaggle](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
 
 ---
 
