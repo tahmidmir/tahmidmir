@@ -64,11 +64,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidmir&layout=compact&theme=dark"/>
 </div>
 
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tahmidmir/tahmidmir/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</div>
-
 <!-- Footer Section -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
