@@ -6,7 +6,7 @@
 # Mir Tahmid Hossain
 
 **Kaggle Grandmaster | 4X Microsoft Certified | Senior Data Scientist**  
-📧 [Email](mailto:your.email@domain.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Kaggle](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
+📧 [Email](mirtahmid@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Kaggle](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
 
 ---
 
@@ -68,7 +68,7 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mirtahmid@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mirtahmid"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.kaggle.com/tahmidmir/code"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
   <a href="https://medium.com/@mirtahmid"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
