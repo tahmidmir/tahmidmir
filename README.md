@@ -62,20 +62,6 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 
 ---
 
-## 🌟 Featured Projects
-
-### **Flood Mapping for Mekong Delta, Vietnam**  
-- **Description**: A machine learning project aimed at predicting and mapping flood-prone areas in the Mekong Delta.
-- **Technologies**: Python, GIS, Machine Learning.
-- **Link**: [Project Repository](#)
-
-### **Predictive Maintenance for Manufacturing**  
-- **Description**: Developed predictive models to forecast equipment failures and reduce downtime in manufacturing.
-- **Technologies**: Python, TensorFlow, Time Series Analysis.
-- **Link**: [Project Repository](#)
-
----
-
 ## 📫 Let's Connect!
 
 <p align="center">
