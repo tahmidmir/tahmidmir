@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tahmid+Mir;Full-Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Animated Header" />
 </div>
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahmidmir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=Dev.to&logoColor=white"/></a>
-</p>
 # Mir Tahmid Hossain
 
 **Kaggle Grandmaster | 4X Microsoft Certified | Senior Data Scientist**  
@@ -35,62 +28,28 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Tech Stack
 
-- **Digital Skills: Artificial Intelligence**
-- **Predicting Dengue Fever Outbreaks in Sri Lanka, Omdena**
-- **Optimizing Crop Rotation for Small-scale Farmers in Rwanda**
-- **Product Masterclass: How to Build Digital Products**
-- **Enhancing Legal Research and Prediction through AI-Powered Case Law Analysis**
-- **Certified Microsoft Fabric Analytics Engineer**
-- **Certified Azure AI Engineer**
-- **Certified Data Scientist**
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### **Frameworks & Libraries**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 💼 Experience
-
-### **Senior Data Scientist**  
-**Saleha Metal Industries Limited**  
-📅 March 2018 - Present (7 years)  
-📍 Dhaka, Bangladesh  
-
-- **Data Strategy**: Translating production challenges into data-driven solutions to optimize efficiency, quality, and cost.
-- **Predictive Modeling**: Building advanced models for demand forecasting, supply chain optimization, and equipment failure prediction.
-- **Leadership & Mentoring**: Leading a team of data scientists and aligning projects with business goals.
-- **Model Deployment**: Ensuring models are production-ready and continuously optimized.
-- **Stakeholder Collaboration**: Working with cross-functional teams to improve product quality and streamline processes.
-
-### **Machine Learning Engineer**  
-**Omdena**  
-📅 June 2024 - Present (9 months)  
-- Currently engaged in **Flood Mapping for the Mekong Delta, Vietnam**.
-
-### **2X Kaggle Grandmaster**  
-**Kaggle**  
-📅 September 2021 - Present (3 years 6 months)  
-📍 United States  
-
-### **Web Developer**  
-**Miracle IT PTY LTD**  
-📅 August 2015 - November 2017 (2 years 4 months)  
-📍 New South Wales, Australia  
-- Developed websites using **HTML, CSS, ASP.NET, JavaScript**.
-- Collaborated with web designers to ensure visual design intent.
-- Maintained and scaled websites for optimal performance.
-
----
-
-## 🎓 Education
-
-- **Master's in Computer Engineering**  
-  Mid Sweden University, Sweden  
-
-- **MSCSE in Data Science**  
-  East West University (January 2022 - July 2023)  
-
-- **Bachelor's in Computer Science**  
-  American International University-Bangladesh  
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
