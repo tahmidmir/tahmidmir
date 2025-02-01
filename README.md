@@ -67,7 +67,7 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mirtahmid@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:mirtahmid@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mirtahmid"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.kaggle.com/tahmidmir/code"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
   <a href="https://medium.com/@mirtahmid"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
