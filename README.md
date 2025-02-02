@@ -24,7 +24,6 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 - **Time Series Analysis**
 - **Machine Learning & Deep Learning**
 - **LLMOps & Generative AI**
-- **AI-Powered Case Law Analysis**
 - **Model Deployment & Optimization**
 
 ---
@@ -50,7 +49,6 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Tabular AI](https://img.shields.io/badge/-Tabular%20AI-2496ED?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
