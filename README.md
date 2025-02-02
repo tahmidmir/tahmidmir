@@ -18,7 +18,6 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 
 ## 🛠️ Top Skills
 
-- **Tabular AI**
 - **Explainable AI (XAI)**
 - **AI Agent Development**
 - **Predictive Analytics**
