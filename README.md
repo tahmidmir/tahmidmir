@@ -6,7 +6,7 @@
 # Mir Tahmid Hossain
 
 **Kaggle Grandmaster | 4X Microsoft Certified | Senior Data Scientist**  
-📧 [Email](mirtahmid@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Kaggle](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
+📧 [Email](mailto:mirtahmid@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Kaggle](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
 
 ---
 
