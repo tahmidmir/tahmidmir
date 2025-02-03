@@ -25,7 +25,7 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 - **Machine Learning & Deep Learning**
 - **LLMOps & Generative AI**
 - **Model Deployment & Optimization**
-- **NLP**
+- **Natural language processing (NLP)**
 ---
 
 ## 🛠️ Tech Stack
