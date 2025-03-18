@@ -49,7 +49,7 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 ![vLLM](https://img.shields.io/badge/-vLLM-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/-AutoGen-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Haystack](https://img.shields.io/badge/-Haystack-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Gymnasium(formerly OpenAI Gym)](https://img.shields.io/badge/-Gymnasium(formerly OpenAI Gym)-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Gymnasium(formerlyOpenAIGym)](https://img.shields.io/badge/-Gymnasium(formerlyOpenAIGym)-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Ray/RLlib](https://img.shields.io/badge/-Ray/RLlib-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![HuggingFaceTransformers+InferenceEndpoints](https://img.shields.io/badge/-HuggingFaceTransformers+InferenceEndpoints-013243?style=for-the-badge&logo=numpy&logoColor=white)
