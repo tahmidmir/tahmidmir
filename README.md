@@ -23,9 +23,9 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 - **Predictive Analytics**
 - **Time Series Analysis**
 - **Machine Learning & Deep Learning**
-- **LLMOps & Generative AI**
+- **MLOps, LLMOps & Generative AI**
 - **Model Deployment & Optimization**
-- **Natural language processing (NLP)**
+- **LLM & Natural language processing (NLP)**
 ---
 
 ## 🛠️ Tech Stack
