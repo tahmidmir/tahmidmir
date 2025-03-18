@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Data Scientist** with a passion for leveraging data to drive impactful decisions in the manufacturing industry. At **Saleha Metal Industries**, I specialize in transforming production challenges into data-driven success stories by applying advanced machine learning techniques. My expertise includes **Predictive Analytics**, **Time Series Analysis**, and **Mentoring** junior data scientists to innovate and uphold high technical standards.
+I am a **Senior Data Scientist** with a passion for leveraging data to drive impactful decisions in the manufacturing industry. At **Saleha Metal Industries**, I specialize in transforming production challenges into data-driven success stories by applying advanced machine learning techniques. My expertise includes **Predictive Analytics**, **LLM**, **AI Agents** **Time Series Analysis**, **MLOps** **GenAI** and **Mentoring** junior data scientists to innovate and uphold high technical standards.
 
 ---
 
