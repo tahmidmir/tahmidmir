@@ -126,6 +126,7 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 ![Loki](https://img.shields.io/badge/-Loki-000000?style=for-the-badge&logo=loki&logoColor=white)
 
 </details>
+
 ### 🚀 AI Engineering & Ops Stack
 
 <details>
@@ -140,6 +141,7 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 ![Haystack](https://img.shields.io/badge/-Haystack-7952B3?style=for-the-badge&logo=haystack&logoColor=white)
 
 </details>
+
 <details>
 <summary><strong>🧠 Machine Learning & Data Science</strong></summary>
 <br>
