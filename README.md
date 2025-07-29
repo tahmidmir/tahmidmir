@@ -94,6 +94,20 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 </details>
 
 <details>
+<summary><strong>⚙️ MLOps, LLMOps & Data Engineering</strong></summary>
+<br>
+
+![MLOps](https://img.shields.io/badge/-MLOps-6C63FF?style=for-the-badge&logo=mlflow&logoColor=white)
+![LLMOps](https://img.shields.io/badge/-LLMOps-F0931A?style=for-the-badge&logo=vertex-ai&logoColor=white)
+![AIOps](https://img.shields.io/badge/-AIOps-00B8D4?style=for-the-badge&logo=splunk&logoColor=white)
+![DataOps](https://img.shields.io/badge/-DataOps-FF4081?style=for-the-badge&logo=dvc&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194D0?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-0069AA?style=for-the-badge&logo=kubeflow&logoColor=white)
+
+</details>
+<details>
 <summary><strong>🐳 Containerization & Orchestration</strong></summary>
 <br>
 
@@ -112,7 +126,20 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 ![Loki](https://img.shields.io/badge/-Loki-000000?style=for-the-badge&logo=loki&logoColor=white)
 
 </details>
+### 🚀 AI Engineering & Ops Stack
 
+<details>
+<summary><strong>🧠 Large Language Models & Agents</strong></summary>
+<br>
+
+![Transformers](https://img.shields.io/badge/-Transformers-FFB86C?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/-LLMs-ffc107?style=for-the-badge&logo=openai&logoColor=black)
+![RAG](https://img.shields.io/badge/-RAG-4caf50?style=for-the-badge&logo=vectorworks&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-00bcd4?style=for-the-badge&logo=autogpt&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-007acc?style=for-the-badge&logo=python&logoColor=white)
+![Haystack](https://img.shields.io/badge/-Haystack-7952B3?style=for-the-badge&logo=haystack&logoColor=white)
+
+</details>
 <details>
 <summary><strong>🧠 Machine Learning & Data Science</strong></summary>
 <br>
