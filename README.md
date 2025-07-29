@@ -1,6 +1,8 @@
-<!-- Header Section with Animated Banner -->
+<!-- Professional GitHub Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm +Mir+Tahmid;AI+Engineer;Data+Scientist" alt="Animated Header" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mir+Tahmid;AI+Engineer+%F0%9F%A7%A0;Data+Scientist+%F0%9F%93%8A;ML+Researcher+%F0%9F%94%8D;Open+Source+Contributor+%E2%9C%A8" alt="Professional Animated Header" />
+  <br>
 </div>
 
 # Mir Tahmid Hossain
@@ -23,7 +25,7 @@ I am a **Senior Data Scientist** with a passion for leveraging data to drive imp
 - **Predictive Analytics**
 - **Time Series Analysis**
 - **Machine Learning & Deep Learning**
-- **MLOps, LLMOps & Generative AI**
+- **DevOps, MLOps, LLMOps, AIOps,  & Generative AI**
 - **Model Deployment & Optimization**
 - **LLM & Natural language processing (NLP)**
 ---
