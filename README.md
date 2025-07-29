@@ -7,15 +7,20 @@
 
 # Mir Tahmid Hossain
 
-**Kaggle Grandmaster | Senior Data Scientist**  
+**Kaggle Grandmaster | DevOps, MLOps, AIOps, LLMOps Expert I Senior Data Scientist**  
 📧 [Email](mailto:mirtahmid@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mirtahmid) | 🖥️ [Kaggle](https://www.kaggle.com/tahmidmir/code) | ✍️ [Blog](https://medium.com/@mirtahmid)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Senior Data Scientist** with a passion for leveraging data to drive impactful decisions in the manufacturing industry. At **Saleha Metal Industries**, I specialize in transforming production challenges into data-driven success stories by applying advanced machine learning techniques. My expertise includes **Predictive Analytics**, **LLM**, **AI Agents** **Time Series Analysis**, **MLOps**, **GenAI** and **Mentoring** junior data scientists to innovate and uphold high technical standards.
+Senior Data Scientist | DevOps, MLOps, AIOps, DataOps, LLMOps Expert | ML, DL, CV, NLP, LLM, AI Agents, GenAI |
 
+I am a Senior Data Scientist with a strong passion for leveraging data to drive strategic and operational excellence within the manufacturing sector. At Saleha Metal Industries, I lead initiatives that transform complex production challenges into scalable, data-driven solutions using state-of-the-art machine learning and AI methodologies.
+
+My core expertise spans ML, DL, CV, Predictive Analytics, Large Language Models (LLMs), AI Agents, Time Series Forecasting, MLOps, DevOps, AIOps, and Generative AI (GenAI). I also actively mentor junior Data Scientists, fostering a culture of innovation, technical rigor, and continuous learning across teams.
+
+Driven by impact, I combine deep technical knowledge with a strong business acumen to bridge the gap between data science and industrial value creation.
 ---
 
 ## 🛠️ Top Skills
