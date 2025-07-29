@@ -21,6 +21,7 @@ I am a Senior Data Scientist with a strong passion for leveraging data to drive 
 My core expertise spans ML, DL, CV, Predictive Analytics, Large Language Models (LLMs), AI Agents, Time Series Forecasting, MLOps, DevOps, AIOps, and Generative AI (GenAI). I also actively mentor junior Data Scientists, fostering a culture of innovation, technical rigor, and continuous learning across teams.
 
 Driven by impact, I combine deep technical knowledge with a strong business acumen to bridge the gap between data science and industrial value creation.
+
 ---
 
 ## 🛠️ Top Skills
