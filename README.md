@@ -77,7 +77,7 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 
 
 ### 🛠️ Tools & Platforms
-
+### 🚀 AI Engineering & Ops Stack
 <details>
 <summary><strong>☁️ Cloud & DevOps</strong></summary>
 <br>
@@ -127,7 +127,14 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 
 </details>
 
-### 🚀 AI Engineering & Ops Stack
+<details>
+<summary><strong>🖥️ Operating Systems</strong></summary>
+<br>
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</details>
 
 <details>
 <summary><strong>🧠 Large Language Models & Agents</strong></summary>
