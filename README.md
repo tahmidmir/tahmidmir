@@ -33,7 +33,7 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 - **Machine Learning & Deep Learning**
 - **DevOps, MLOps, LLMOps, AIOps,  & Generative AI**
 - **Model Deployment & Optimization**
-- **LLM & Natural language processing (NLP)**
+- **Computer Vision, LLM & Natural language processing (NLP)**
 ---
 
 ## 🛠️ Tech Stack
