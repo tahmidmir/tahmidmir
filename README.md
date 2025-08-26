@@ -204,10 +204,7 @@ Driven by impact, I combine deep technical knowledge with a strong business acum
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahmidmir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-<img height="180" 
-     width="600" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidmir&theme=dark" 
-     alt="GitHub Streak Stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidmir&theme=dark" alt="GitHub Streak Stats" />
      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidmir&layout=compact&theme=dark"/>
 </div>
